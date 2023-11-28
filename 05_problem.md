@@ -1,4 +1,4 @@
-# Ejercicio 5
+# Rango entre 10 y 100
 Escribir un algoritmo que lea un número y deduzca si está entre 10 y 100, ambos inclusive. 
 
 **Entrada**

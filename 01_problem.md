@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Encontrando múltiplos
 Mostrar los múltiplos de 4 comprendidos entre 4 y N, donde N es un número introducido por teclado.
 
 **Entrada**

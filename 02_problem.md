@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Pares e impares
 Dado 10 números enteros que se introducirán por teclado, visualizar la suma de los numeros pares de la lista, cuántos números pares existen y cuál es la media aritmetica de los números impares.
 
 **Entrada**

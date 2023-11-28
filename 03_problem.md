@@ -1,4 +1,4 @@
-# Ejercicio 3
+# Determinando precio de boleto
 Determinar el precio de un boleto de ida y vuelta en ferrocarril, conociendo la distancia a recorrer y sabiendo que si el número de dias de estancia es superior a 7 y la distancia es superior a 800 kilómetros el boleto tiene una reducción del 30%. El precio por kilómetro es de 0.4
 
 **Entrada**
